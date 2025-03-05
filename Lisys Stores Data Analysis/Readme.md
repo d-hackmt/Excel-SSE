@@ -1,3 +1,4 @@
 # Lisys Stores 
 
-![image](https://github.com/user-attachments/assets/0f6956c7-c6e6-4f94-b16c-5974fe7dc8c9)
+
+![Vrinda Store Data Analysis(AutoRecovered) - Excel 3_5_2025 7_08_05 PM](https://github.com/user-attachments/assets/49a1715e-7086-49b4-a00a-ee9b6478ea47)
