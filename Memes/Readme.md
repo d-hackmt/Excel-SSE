@@ -13,4 +13,10 @@
 
 ![image](https://github.com/user-attachments/assets/1146731d-079d-4ef7-ba54-3976cfb93783)
 
+When you tell HR that you know pivot tables : 
 
+![image](https://github.com/user-attachments/assets/e179f4c4-dd93-4035-8969-33c35cdd2331)
+
+If i was a data analyst : 
+
+![image](https://github.com/user-attachments/assets/6ca5891e-776d-407b-8c4b-6182e5e87996)
