@@ -9,7 +9,7 @@
 ![Vrinda Store Data Analysis(AutoRecovered) - Excel 3_5_2025 7_08_05 PM](https://github.com/user-attachments/assets/49a1715e-7086-49b4-a00a-ee9b6478ea47)
 
 
-what we cover !!
+## what we cover !!
 
 ![image](https://github.com/user-attachments/assets/33e6ac77-9fa7-4036-a5c4-5f56eba9ff97)
 
