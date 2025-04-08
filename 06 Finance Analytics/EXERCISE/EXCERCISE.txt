@@ -1,0 +1,5 @@
+This practice exercise will take you one step closer to becoming a data analyst
+
+The goal of this task is to create two reports, specifically named 'report1.pdf' and 'report2.pdf', which we have provided.
+
+To make the process smoother, you can utilize the file "Finance Report Atliq Hardwares.xlsx" as a starting point and refer to the existing measures and reports created in this chapter as a reference.
